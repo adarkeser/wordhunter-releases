@@ -1,11 +1,10 @@
 # WordHunter — Releases
 
+Learn English from subtitles.
+
 Public download host for [**WordHunter**](https://adarkeser.com/word-hunter), a macOS app
-that turns the hardest word in a subtitle into an Anki card.
+with one keystroke pauses the scene, finds the word you don't know, defines it in the context of the subtitle, and saves it to Anki.
 
 Each release here is a **notarized, stapled `.dmg`**, EdDSA-signed for the
 [Sparkle](https://sparkle-project.org) auto-updater. The update feed (appcast) lives at
 <https://adarkeser.com/word-hunter/appcast.xml>.
-
-Published automatically by `scripts/release.sh` in the (private) WordHunter source repo —
-this repo is just the binary host, so it has no source and is never cloned locally.
